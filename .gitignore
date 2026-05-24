@@ -1,0 +1,24 @@
+# 数据文件
+*.npz
+*.h5
+*.pkl
+*.pt
+*.pth
+*.bin
+*.npy
+
+# 数据集
+data/
+dataset/
+pretrained_models/
+checkpoints/
+
+# 日志
+*.log
+logs/
+wandb/
+
+# 临时文件
+__pycache__/
+*.pyc
+.DS_Store
