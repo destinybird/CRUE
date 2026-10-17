@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.23
+openpyxl>=3.1
+requests>=2.28
+pydicom>=2.4
+pylidc>=0.4
